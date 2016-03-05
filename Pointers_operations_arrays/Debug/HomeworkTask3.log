@@ -1,0 +1,5 @@
+﻿  ThirdTask.cpp
+c:\users\yavor\documents\visual studio 2015\projects\it_step_pointers\homeworktask3\thirdtask.cpp(65): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\yavor\documents\visual studio 2015\projects\it_step_pointers\homeworktask3\thirdtask.cpp(74): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  HomeworkTask3.vcxproj -> C:\Users\Yavor\documents\visual studio 2015\Projects\It_Step_Pointers\Debug\HomeworkTask3.exe
+  HomeworkTask3.vcxproj -> C:\Users\Yavor\documents\visual studio 2015\Projects\It_Step_Pointers\Debug\HomeworkTask3.pdb (Partial PDB)
